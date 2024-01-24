@@ -31,11 +31,11 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color: #816245;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
-  box-shadow: 0 6px #2E282A;
+  box-shadow: 0 6px #4d3c2d;
 }
   
 .btn a {
